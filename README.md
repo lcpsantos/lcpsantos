@@ -28,6 +28,7 @@ Tenho interesses em:
 
 📫 Como entrar em contato comigo: 
  - Linkedin: https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/
- - Salesforce - Trailbralzer: trailblazer.me/id/luizpacheco
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/)]https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/)
+
 
 <!-- **lcpsantos/lcpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
