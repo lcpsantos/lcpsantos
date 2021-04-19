@@ -16,11 +16,18 @@ Tenho interesses em:
 - Inteligência Artificial e IoT. 
 
 📫 Como entrar em contato comigo: 
-https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/ 
-trailblazer.me/id/luizpacheco
+ - Linkedin: https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/
+ - Salesforce - Trailbralzer: trailblazer.me/id/luizpacheco
 
 [![lcpsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=lcpsantos)](https://github.com/lcpsantos/github-readme-stats)
 
+<br>
+<a href="https://github.com/lcpsantos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpsantos&theme=dark&hide_langs_below=1" />
+</a>
 
+<a href="https://github.com/lcpsantos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcpsantos&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
 
 <!-- **lcpsantos/lcpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
