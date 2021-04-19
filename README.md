@@ -24,6 +24,7 @@ Tenho interesses em:
 </a>
 <br>
 
-📫 Como entrar em contato comigo:
+
+### 📫 Follow me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcpsantos/)](https://www.linkedin.com/in/lcpsantos/)
