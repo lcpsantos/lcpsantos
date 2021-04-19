@@ -15,7 +15,9 @@ Tenho interesses em:
 - Sistemas embarcados
 - Inteligência Artificial e IoT. 
 
-📫 Como entrar em contato comigo: https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/
+📫 Como entrar em contato comigo: 
+https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/ 
+trailblazer.me/id/luizpacheco
 
 [![lcpsantos GitHub stats](https://github-readme-stats.vercel.app/api?username=lcpsantos)](https://github.com/lcpsantos/github-readme-stats)
 
