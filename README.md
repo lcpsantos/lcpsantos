@@ -27,7 +27,6 @@ Tenho interesses em:
 <br>
 
 📫 Como entrar em contato comigo: 
- - Linkedin: https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/)]https://www.linkedin.com/in/luiz-c%C3%A9sar-pacheco-9a30834a/)
 
 
