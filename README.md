@@ -7,10 +7,8 @@ Tenho conhecimentos em: Java (back e front), JavaScript, PHP, HTML, CSS, banco d
 Tenho interesses em:
 - Desenvolvimento web e mobile
 - Java
-- JavaScript
 - Micro serviços
 - CRM - Salesforce
-- Business Intelligence
 - Tecnologias digitais para educação e ensino
 - Sistemas embarcados
 - Inteligência Artificial e IoT. 
