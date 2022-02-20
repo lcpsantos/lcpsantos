@@ -2,7 +2,7 @@ Olá, sou o Luiz!
 
 Estou cursando Engenharia da Computação com foco em desenvolvimento de sistemas.
 
-Tenho conhecimentos em: Java (back e front), JavaScript, PHP, HTML, CSS, banco de dados, metodologias ágeis, etc.<br>
+Tenho conhecimentos em: Java, PHP, HTML, CSS e banco de dados.<br>
 
 Tenho interesses em:
 - Desenvolvimento web e mobile
