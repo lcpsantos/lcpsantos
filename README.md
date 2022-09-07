@@ -1,8 +1,8 @@
 Olá, sou o Luiz!
 
-Estou cursando Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor web fullstack.
 
-Tenho conhecimentos em: Java, PHP, HTML, CSS e banco de dados.<br>
+Tenho conhecimentos em: Java, PHP, Angular, um pouco de React e banco de dados.<br>
 
 Tenho interesses em:
 - Desenvolvimento web e mobile
