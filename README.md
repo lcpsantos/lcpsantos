@@ -2,7 +2,7 @@ Olá, sou o Luiz!
 
 Sou desenvolvedor web fullstack.
 
-Tenho conhecimentos em: Java, PHP, Angular, um pouco de React e banco de dados.<br>
+Tenho conhecimentos em: Java, PHP, Angular, Banco de Dados relacional e um pouco de React.<br>
 
 Tenho interesses em:
 - Desenvolvimento web e mobile
@@ -12,16 +12,6 @@ Tenho interesses em:
 - Tecnologias digitais para educação e ensino
 - Sistemas embarcados
 - Inteligência Artificial e IoT. 
-
-<br>
-<a href="https://github.com/lcpsantos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpsantos&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/lcpsantos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lcpsantos&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-<br>
 
 
 ### 📫 Follow me 👇
