@@ -1,6 +1,6 @@
 Olá, sou o Luiz!
 
-Sou desenvolvedor web fullstack.
+Sou desenvolvedor backend e um pouco de frontend.
 
 Tenho conhecimentos em: Java, PHP, Angular, Banco de Dados relacional e um pouco de React.<br>
 
@@ -8,7 +8,6 @@ Tenho interesses em:
 - Desenvolvimento web e mobile
 - Java
 - Micro serviços
-- CRM - Salesforce
 - Tecnologias digitais para educação e ensino
 - Sistemas embarcados
 - Inteligência Artificial e IoT. 
