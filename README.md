@@ -1,14 +1,9 @@
 Olá, sou o Luiz!
 
-Sou desenvolvedor backend e um pouco de frontend.
-
-Tenho conhecimentos em: Java, PHP, Angular, Banco de Dados relacional e um pouco de React.<br>
+Sou desenvolvedor backend. Tenho conhecimentos em: Java, PHP, Angular, Banco de Dados.<br>
 
 Tenho interesses em:
 - Desenvolvimento web e mobile
-- Java
-- Micro serviços
-- Tecnologias digitais para educação e ensino
 - Sistemas embarcados
 - Inteligência Artificial e IoT. 
 
